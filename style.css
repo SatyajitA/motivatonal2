@@ -1,0 +1,23 @@
+body{
+    background-color:black;
+}
+h1{
+    font-family: "Oswald", sans-serif;
+    color: #6AD4DD;
+    font-size: 3rem;
+    margin-top: 10px;
+    margin-left: 25%;
+    width: 50%;
+}
+.poster{
+    color: aliceblue;
+    margin-left:25%;
+    width: 50%;  
+    margin-top: 10px;
+    text-align: center;
+    font-family: "Oswald", sans-serif;
+}
+.image{
+  width: 100%; 
+  border: 5px solid white; 
+}
